@@ -4,11 +4,11 @@
 
 - 📫 How to reach me **bharadwaj21197@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok/view?usp=sharing](https://drive.google.com/file/d/1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok/view?usp=sharing)
+  <a href="https://drive.google.com/uc?export=download&id=1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok">My Resume</a>
+  
 
-- <button onclick="downloadResume()" style="padding: 10px 20px; background-color: #3498db; color: #fff; border: none; border-radius: 5px; cursor: pointer;">
-    Download Resume
-</button>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,8 +32,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagu21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<script>
-    function downloadResume() {
-        window.location.href = 'https://drive.google.com/uc?export=download&id=1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok';
-    }
-</script>
+
