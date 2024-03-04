@@ -5,10 +5,9 @@
 - 📫 How to reach me **bharadwaj21197@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok/view?usp=sharing](https://drive.google.com/file/d/1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok/view?usp=sharing)
-- <a href="https://drive.google.com/file/d/1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok/view">
-        <button style="padding: 10px 20px; background-color: #3498db; color: #fff; border: none; border-radius: 5px; cursor: pointer;">
-            Download Resume
-        </button>
+- <button style="padding: 10px 20px; background-color: #3498db; color: #fff; border: none; border-radius: 5px; cursor: pointer;" onclick="window.open('https://drive.google.com/uc?export=download&id=1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok', '_blank');">
+    Download Resume
+</button>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
