@@ -5,7 +5,8 @@
 - 📫 How to reach me **bharadwaj21197@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok/view?usp=sharing](https://drive.google.com/file/d/1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok/view?usp=sharing)
-- <button style="padding: 10px 20px; background-color: #3498db; color: #fff; border: none; border-radius: 5px; cursor: pointer;" onclick="window.open('https://drive.google.com/uc?export=download&id=1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok', '_blank');">
+
+- <button onclick="downloadResume()" style="padding: 10px 20px; background-color: #3498db; color: #fff; border: none; border-radius: 5px; cursor: pointer;">
     Download Resume
 </button>
 
@@ -30,3 +31,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagu21&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagu21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
+
+<script>
+    function downloadResume() {
+        window.location.href = 'https://drive.google.com/uc?export=download&id=1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok';
+    }
+</script>
