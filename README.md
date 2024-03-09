@@ -4,8 +4,9 @@
 
 - 📫 How to reach me **bharadwaj21197@gmail.com**
 
-  <a href="https://drive.google.com/uc?export=download&id=1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok"><button>My Resume</button></a>
-   <a href="https://bharadwajvagu.netlify.app/"><button>Portfolio</button></a>
+  - <a href="https://drive.google.com/uc?export=download&id=1LlokjkHph2DvDVH8M-EXZiPt_uHYZ2Ok"><button>My Resume</button></a>
+</br>
+  - <a href="https://bharadwajvagu.netlify.app/"><button>Portfolio</button></a>
   
 
 
